@@ -7,19 +7,19 @@ Steam\steamapps\common\Team Fortress 2\tf\cfg <br>
 
 **Default (Taunt Mode)** <br>
 
-Numpad 0 – Join taunt <br>
-Numpad 1 – Taunt slot 1 <br>
-Numpad 2 – Taunt slot 2 <br>
-Numpad 3 – Taunt slot 3 <br>
-Numpad 4 – Taunt slot 4 <br>
-Numpad 5 – Taunt slot 5 <br>
-Numpad 6 – Taunt slot 6 <br>
-Numpad 7 – Taunt slot 7 <br>
-Numpad 8 – Taunt slot 8 <br>
+Numpad 0 – Join Taunt <br>
+Numpad 1 – Taunt Slot 1 <br>
+Numpad 2 – Taunt Slot 2 <br>
+Numpad 3 – Taunt Slot 3 <br>
+Numpad 4 – Taunt Slot 4 <br>
+Numpad 5 – Taunt Slot 5 <br>
+Numpad 6 – Taunt Slot 6 <br>
+Numpad 7 – Taunt Slot 7 <br>
+Numpad 8 – Taunt Slot 8 <br>
 
 **While holding Numpad + (Enemy Disguises)** <br>
 
-Numpad 0 – Drop disguise <br>
+Numpad 0 – Drop Disguise <br>
 Numpad 1 – Enemy Scout <br>
 Numpad 2 – Enemy Soldier <br>
 Numpad 3 – Enemy Pyro <br>
@@ -33,7 +33,7 @@ Numpad 8 – Enemy Spy <br>
 
 **While holding Numpad − (Friendly Disguises)** <br>
 
-Numpad 0 – Drop disguise <br>
+Numpad 0 – Drop Disguise <br>
 Numpad 1 – Friendly Scout <br>
 Numpad 2 – Friendly Soldier <br>
 Numpad 3 – Friendly Pyro <br>

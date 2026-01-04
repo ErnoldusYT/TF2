@@ -7,7 +7,7 @@ Steam\steamapps\common\Team Fortress 2\tf\cfg <br>
 
 **Default (Taunt Mode)** <br>
 
-Numpad 0 – Join taunt / default weapon taunt <br>
+Numpad 0 – Join taunt <br>
 Numpad 1 – Taunt slot 1 <br>
 Numpad 2 – Taunt slot 2 <br>
 Numpad 3 – Taunt slot 3 <br>

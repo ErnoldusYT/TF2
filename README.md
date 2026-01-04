@@ -29,9 +29,9 @@ Numpad 6 – Enemy Engineer <br>
 Numpad 7 – Enemy Medic <br>
 Numpad 8 – Enemy Spy <br>
 
-**Release Numpad + to return to taunts. <br>
+**Release Numpad + to return to taunts.** <br>
 
-While holding Numpad − (Friendly Disguises)** <br>
+**While holding Numpad − (Friendly Disguises)** <br>
 
 Numpad 0 – Drop disguise <br>
 Numpad 1 – Friendly Scout <br>
